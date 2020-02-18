@@ -13,7 +13,7 @@ We are going to understand how to start learning AWS and how to complete AWS cer
 
 - [AWS](https://www.youtube.com/watch?v=a9__D53WsUs)
 
-[<img src="https://img.youtube.com/vi/a9__D53WsUs/maxresdefault.jpg" width="50%">](https://youtu.be/a9__D53WsUs)
+[<img src="https://github.com/Rohit2890/StartAWS/blob/master/Images/aws.png" width="50%">](https://youtu.be/a9__D53WsUs)
 
 - [Documentation](https://docs.aws.amazon.com/index.html)
 
@@ -21,7 +21,7 @@ We are going to understand how to start learning AWS and how to complete AWS cer
 
 - [AWS Udemy course](https://www.udemy.com/course/aws-concepts/)
 
- [<img src="https://i.udemycdn.com/course/240x135/964656_ca25_2.jpg" width="50%">](https://www.udemy.com/course/aws-concepts/)
+ [<img src="https://github.com/Rohit2890/StartAWS/blob/master/Images/udemy.png" width="50%">](https://www.udemy.com/course/aws-concepts/)
 
 
 ## Prerequisites 
