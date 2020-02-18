@@ -9,7 +9,7 @@
 We are going to understand how to start learning AWS and how to complete AWS certification path .
 - [Basic of cloud computing ](https://www.youtube.com/watch?v=dH0yz-Osy54)
 
-[<img src="//Images/CloudComp.png" width="50%">](https://youtu.be/dH0yz-Osy54)
+[<img src="https://github.com/Rohit2890/StartAWS/blob/master/Images/CloudComp.png" raw=true  width="50%">](https://youtu.be/dH0yz-Osy54)
 
 - [AWS](https://www.youtube.com/watch?v=a9__D53WsUs)
 
