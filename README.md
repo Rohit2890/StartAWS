@@ -7,11 +7,11 @@
 
 ## Getting Started
 We are going to understand how to start learning AWS and how to complete AWS certification path .
-[Basic of cloud computing ](https://www.youtube.com/watch?v=dH0yz-Osy54)
-[AWS](https://www.youtube.com/watch?v=a9__D53WsUs)
-[Documentation](https://docs.aws.amazon.com/index.html)
-[10 mIn tutorials ](https://aws.amazon.com/getting-started/tutorials/)
-[AWS Udemy course](https://synechron.udemy.com/course/aws-concepts/)S
+- [Basic of cloud computing ](https://www.youtube.com/watch?v=dH0yz-Osy54)
+- [AWS](https://www.youtube.com/watch?v=a9__D53WsUs)
+- [Documentation](https://docs.aws.amazon.com/index.html)
+- [10 mIn tutorials ](https://aws.amazon.com/getting-started/tutorials/)
+- [AWS Udemy course](https://synechron.udemy.com/course/aws-concepts/)
 
 ## Prerequisites 
 Having better understanding in below points helps us to work with ** AWS **.
@@ -34,23 +34,23 @@ Having better understanding in below points helps us to work with ** AWS **.
     - [Access Management](https://docs.aws.amazon.com/IAM/latest/UserGuide/access.html)
 
 2. VPC and Subnets 
-        - [VPC](https://docs.aws.amazon.com/vpc/latest/userguide/what-is-amazon-vpc.html)
-        - [ Security Groups in  VPC ](https://docs.aws.amazon.com/vpc/latest/userguide/VPC_SecurityGroups.html)
+    - [VPC](https://docs.aws.amazon.com/vpc/latest/userguide/what-is-amazon-vpc.html)
+    - [ Security Groups in  VPC ](https://docs.aws.amazon.com/vpc/latest/userguide/VPC_SecurityGroups.html)
 3. EC2 
-      -[Amazon EC2](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/concepts.html)
-      -[AMI](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AMIs.html)
-      -[Instance Types](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/instance-types.html)
-      -[Key Pairs](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-key-pairs.html)
-      -[Storage](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/Storage.html)
+    - [Amazon EC2](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/concepts.html)
+    - [AMI](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AMIs.html)
+    - [Instance Types](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/instance-types.html)
+    - [Key Pairs](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-key-pairs.html)
+    - [Storage](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/Storage.html)
 
 4. S3 
-     -[ Buckets](https://docs.aws.amazon.com/AmazonS3/latest/dev/UsingBucket.html)
-     -[Storage class](https://aws.amazon.com/s3/storage-classes/)
+    - [ Buckets](https://docs.aws.amazon.com/AmazonS3/latest/dev/UsingBucket.html)
+    - [Storage class](https://aws.amazon.com/s3/storage-classes/)
 
 5. Cloud watch
-     -[Cloudwatch](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/WhatIsCloudWatch.html)
+     - [Cloudwatch](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/WhatIsCloudWatch.html)
      
 6. Route 53
-     -[Route 53](https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/Welcome.html)
-     -[Routing Internet Traffic to AWS Resources](https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/routing-to-aws-resources.html)
-     -[Configuration](https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/dns-configuring.html)
+     - [Route 53](https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/Welcome.html)
+     - [Routing Internet Traffic to AWS Resources](https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/routing-to-aws-resources.html)
+     - [Configuration](https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/dns-configuring.html)
